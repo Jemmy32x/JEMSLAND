@@ -24,6 +24,10 @@ marquee{
 	width: 20%;
 }
 
+.main{
+	position: static;
+}
+
 .page{
 	margin-top: 5px;
 	display: flex;
