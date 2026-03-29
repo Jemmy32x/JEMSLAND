@@ -40,13 +40,6 @@ marquee{
 	width: 70%;
 }
 
-.blog{
-	margin: 5px;
-	background-color: rgba(50, 25, 50, 0.5);
-	position: static;
-	width: 30%;
-}
-
 ul{
 	text-align: left;
 }
